@@ -5,8 +5,8 @@
 This is The Resolution Board, a template created to help you achieve your New Year Resolutions and these are my new year resolutions.
 
 ## Resolution 1 📚 ![](https://img.shields.io/badge/progress-100%25-darkgreen.svg)
-This year my my resolution is that I will read at least 12 books.
-
+This year my my resolution is that I will read at least 10 books.
+- [] [Stumbling on Happiness] (https://www.amazon.com/Stumbling-Happiness-Daniel-Gilbert/dp/1400077427) - "Daniel Gilbert"
 - [x] [Hard things about hard things](https://www.amazon.com/Hard-Thing-About-Things-Building/dp/0062273205) - *Ben Horowitz*
 - [x] [A Short Guide to a Long Life](https://www.amazon.com/Short-Guide-Long-Life/dp/147673609X) - *David B. Agus M.D.*
 - [x] [Influence and Persuasion](https://www.amazon.com/Influence-Persuasion-HBR-Emotional-Intelligence-ebook/dp/B06XVBLYVS) - *HBR Emotional Intelligence Series*
