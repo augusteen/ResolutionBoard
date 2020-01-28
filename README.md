@@ -4,21 +4,9 @@
 
 This is The Resolution Board, a template created to help you achieve your New Year Resolutions and these are my new year resolutions.
 
-## Resolution 1 📚 ![](https://img.shields.io/badge/progress-100%25-darkgreen.svg)
+## Resolution 1 📚 ![](https://img.shields.io/badge/progress-0%25-darkgreen.svg)
 This year my my resolution is that I will read at least 10 books.
-- [] [Stumbling on Happiness] (https://www.amazon.com/Stumbling-Happiness-Daniel-Gilbert/dp/1400077427) - "Daniel Gilbert"
-- [x] [Hard things about hard things](https://www.amazon.com/Hard-Thing-About-Things-Building/dp/0062273205) - *Ben Horowitz*
-- [x] [A Short Guide to a Long Life](https://www.amazon.com/Short-Guide-Long-Life/dp/147673609X) - *David B. Agus M.D.*
-- [x] [Influence and Persuasion](https://www.amazon.com/Influence-Persuasion-HBR-Emotional-Intelligence-ebook/dp/B06XVBLYVS) - *HBR Emotional Intelligence Series*
--  [x] [The Old Man and The Sea](https://www.amazon.com/Old-Man-Sea-Ernest-Hemingway/dp/0684801221/ref=sr_1_1?crid=3QEZOQHBYQX3G&keywords=old+and+the+sea&qid=1552198476&s=gateway&sprefix=old+and+the+%2Caps%2C349&sr=8-1) - *Ernest Hemingway*
--  [x] [Make Your Bed](https://www.amazon.com/Make-Your-Bed-Little-Things/dp/1455570249/) - *Admiral William H. McRaven*
--  [x] [Sell or be Sold](https://www.amazon.com/Sell-Be-Sold-Your-Business/dp/B00JV3YVHU/) - *Grant Cardone*
--  [x] [10x Rule](https://www.amazon.com/10X-Rule-Difference-Between-Success/dp/B005DGW34C/) - *Grant Cardone*
--  [x] [Tuesdays with Morrie](https://www.amazon.com/Tuesdays-Morrie-Young-Greatest-Lesson/dp/B000EQHWJC/) - *Mitch Albom*
-- [x] [Sapiens](https://www.amazon.com/Random-House-AudioBooks-Sapiens/dp/B00VXJQ88K/) - *Yuval Noah Harari*
-- [x] [The Lean Startup](https://www.amazon.com/Lean-Startup-Entrepreneurs-Continuous-Innovation/dp/B005MM7HY8/) - *Eric Ries* 
-- [x] [The Personal MBA](https://www.amazon.com/Personal-MBA-Master-Art-Business/dp/B0095PELTM/) - *Josh Kaufman* 
-- [x] [Deep Work](https://www.amazon.com/Deep-Work-Focused-Success-Distracted/dp/B01CYKUC9C/) - *Cal Newport* 
+- [ ] [Stumbling on Happiness] (https://www.amazon.com/Stumbling-Happiness-Daniel-Gilbert/dp/1400077427) - "Daniel Gilbert"
 
 
 
