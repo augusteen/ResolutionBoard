@@ -10,7 +10,7 @@ This year my my resolution is that I will read at least 10 books.
 
 ## Resolution 2 💪🏼 ![](https://img.shields.io/badge/progress-0%25-darkgreen.svg)
 This year I will lose my body weight to 85-87kg 
-* **Jan 2020 - 93kg
+* **Jan 2020** - 93kg
 
 ## Resolution 2 👨🏻‍💻 ![](https://img.shields.io/badge/progress-116%25-darkgreen.svg)
 
