@@ -12,10 +12,12 @@ This year my my resolution is that I will read at least 10 books.
 This year I will lose my body weight to 85-87kg 
 * **Jan 2020** - 93kg
 
-## Resolution 2 👨🏻‍💻 ![](https://img.shields.io/badge/progress-116%25-darkgreen.svg)
+## Resolution 3 👨🏻‍💻 ![](https://img.shields.io/badge/progress-116%25-darkgreen.svg)
 
-This year my resolution is that I will work on 12 open source projects
-
+This year my resolution is that I will complete innovation Projection
+- [ ] PMO
+- [ ] Augmented Reality project for measuring distance 
+- [ ] 
 ## Resolution 3 ✈️ ![](https://img.shields.io/badge/progress-200%25-darkgreen.svg)
 
 ## Resolution 5 🤝 ![](https://img.shields.io/badge/progress-103%25-darkgreen.svg)
